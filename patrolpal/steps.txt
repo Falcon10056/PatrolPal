@@ -1,0 +1,9 @@
+Steps to execute
+
+1. RUN pip install virtualenv
+2. RUN python3 -m venv ~/patrolpal
+3. RUN cd ~/patrolpal
+4. RUN source bin/activate
+5. Copy the contents of the zip file into the newly created folder 
+6. RUN pip install requirements.txt 
+7. RUN python3 GradioApp.py
